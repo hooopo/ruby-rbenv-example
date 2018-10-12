@@ -1,4 +1,4 @@
 #!/bin/bash
 
 set -eu
-source ~/.bash_profile
+export PATH=/Users/hooopo/.gem/ruby/2.5.0/bin:/Users/hooopo/.rubies/ruby-2.5.0/lib/ruby/gems/2.5.0/bin:/Users/hooopo/.rubies/ruby-2.5.0/bin:/Users/hooopo/.gvm/bin:/Users/hooopo/.pyenv/shims:/Users/hooopo/.pyenv/bin:/usr/local/opt/mysql@5.6/bin:/Users/hooopo/.rbenv/shims:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
